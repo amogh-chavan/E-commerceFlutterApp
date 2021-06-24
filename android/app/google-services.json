@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "466839176524",
+    "project_id": "zerowaste-1",
+    "storage_bucket": "zerowaste-1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:466839176524:android:e6aa231533bc3dcd8dfbe9",
+        "android_client_info": {
+          "package_name": "com.example.zerowaste"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "466839176524-lve7knle2v2cme4l836p3r514531rtj4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.zerowaste",
+            "certificate_hash": "4c29e5c731895526d504fecad72cd34ebeafaab5"
+          }
+        },
+        {
+          "client_id": "466839176524-9s2ekb01fcbk9lif149mocmc8nviaisr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4sM8CSdQB0htviyfDIatvoTM-HDQqh00"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "466839176524-9s2ekb01fcbk9lif149mocmc8nviaisr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
